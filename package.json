@@ -46,7 +46,7 @@
     "lint:fix": "yarn lint --fix",
     "prepack": "tsc",
     "prepare": "tsc",
-    "preinstall": "node ./engine-requirements.js",
+    "preinstall": "node preinstall.js",
     "release": "release-it",
     "test": "jest",
     "test:watch": "jest --watch",

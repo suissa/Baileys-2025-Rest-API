@@ -47,7 +47,7 @@ A comprehensive REST API wrapper for the Baileys WhatsApp Web library with a man
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/baileys-api.git
+git clone https://github.com/pointersoftware/Baileys-2025-Rest-API.git
 cd baileys-api
 ```
 
@@ -82,7 +82,7 @@ For the fastest setup, use Docker Compose:
 
 ```bash
 # Clone and navigate to the project
-git clone https://github.com/yourusername/baileys-api.git
+git clone https://github.com/pointersoftware/Baileys-2025-Rest-API.git
 cd baileys-api
 
 # Start all services (API, PostgreSQL, Redis)
@@ -330,7 +330,7 @@ Found a bug or have a feature request? Please:
    - Environment details (OS, Node.js version, etc.)
    - Relevant logs or error messages
 
-[**Report an Issue**](https://github.com/yourusername/baileys-api/issues/new) | [**Request a Feature**](https://github.com/yourusername/baileys-api/issues/new?template=feature_request.md)
+[**Report an Issue**](https://github.com/pointersoftware/Baileys-2025-Rest-API/issues/new) | [**Request a Feature**](https://github.com/pointersoftware/Baileys-2025-Rest-API/issues/new?template=feature_request.md)
 
 ## Support
 
@@ -354,8 +354,8 @@ Your support helps maintain and improve this project for the entire community!
 For questions and support:
 
 - 📚 **Documentation**: Check the [API documentation](http://localhost:3001/api-docs) and this README
-- 🐛 **Issues**: [Open an issue](https://github.com/yourusername/baileys-api/issues) for bugs or feature requests
-- 💬 **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/baileys-api/discussions) for general questions
+- 🐛 **Issues**: [Open an issue](https://github.com/pointersoftware/Baileys-2025-Rest-API/issues) for bugs or feature requests
+- 💬 **Discussions**: Join [GitHub Discussions](https://github.com/pointersoftware/Baileys-2025-Rest-API/discussions) for general questions
 - 📖 **Baileys Docs**: Review the [original Baileys documentation](https://github.com/WhiskeySockets/Baileys)
 
 ## License
