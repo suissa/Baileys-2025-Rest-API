@@ -10,7 +10,7 @@
 
 A comprehensive REST API wrapper for the Baileys WhatsApp Web library with a management dashboard.
 
-**Author:** [Abid Shafi](https://github.com/abidshafi)
+**Author:** [Abid](https://github.com/pointersoftware)
 
 ## Features
 
@@ -379,7 +379,7 @@ This project is not affiliated with WhatsApp Inc. Use responsibly and in accorda
 
 <div align="center">
 
-**Made with ❤️ by [Abid Shafi](https://github.com/abidshafi)**
+**Made with ❤️ by [Abid](https://github.com/pointersoftware)**
 
 If this project helped you, please consider [buying me a coffee](https://buymeacoffee.com/pointersoftware) ☕
 
