@@ -1,12 +1,9 @@
 # Baileys WhatsApp API Wrapper
 
-[![npm version](https://badge.fury.io/js/baileys-api.svg)](https://badge.fury.io/js/baileys-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
 [![Docker](https://img.shields.io/badge/docker-supported-blue)](https://www.docker.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/baileys-api)](https://github.com/yourusername/baileys-api/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/baileys-api)](https://github.com/yourusername/baileys-api/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/pointersoftware/Baileys-2025-Rest-API)](https://github.com/pointersoftware/Baileys-2025-Rest-API/issues)
+[![GitHub stars](https://img.shields.io/github/stars/pointersoftware/Baileys-2025-Rest-API)](https://github.com/pointersoftware/Baileys-2025-Rest-APIstargazers)
 
 A comprehensive REST API wrapper for the Baileys WhatsApp Web library with a management dashboard.
 
